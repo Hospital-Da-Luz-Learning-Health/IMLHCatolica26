@@ -6,7 +6,7 @@ Welcome to the course "Introdução a Machine Learning" from Católica Universit
 
 The handout is available [here](https://github.com/Hospital-Da-Luz-Learning-Health/MLCatolica25/tree/main/Final%20Project)
 
-The notebook to develop your project is [here](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Final%20Project/final_project.ipynb)
+The notebook to develop your project is [here](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Final%20Project/final_project.ipynb)
 
 Tutorial Notebook for how to submit your prediction to the test set is [here](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Final%20Project/submission%20tutorial.ipynb)
 
@@ -17,9 +17,9 @@ Tutorial Notebook for how to submit your prediction to the test set is [here](ht
 [Slides](https://github.com/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%201%20-%20Introduction%20to%20Basic%20Concepts/slides/20240618%20IMLH%20First%20class.pptx): On this page click the `View raw` text to download the slides.
 
 Python:
-- [Intro To Python - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%201%20-%20Introduction%20to%20Basic%20Concepts/Intro%20to%20Python%20-%20Learning%20Notebook.ipynb)
-- [Intro To Python - Exercises Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%201%20-%20Introduction%20to%20Basic%20Concepts/Intro%20to%20Python%20-%20Exercise%20Notebook.ipynb)
-- [Intro To Python - Homework Notebook (Optional)](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%201%20-%20Introduction%20to%20Basic%20Concepts/Intro%20to%20Python%20-%20Homework%20(Optional).ipynb)
+- [Intro To Python - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%201%20-%20Introduction%20to%20Basic%20Concepts/Intro%20to%20Python%20-%20Learning%20Notebook.ipynb)
+- [Intro To Python - Exercises Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%201%20-%20Introduction%20to%20Basic%20Concepts/Intro%20to%20Python%20-%20Exercise%20Notebook.ipynb)
+- [Intro To Python - Homework Notebook (Optional)](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%201%20-%20Introduction%20to%20Basic%20Concepts/Intro%20to%20Python%20-%20Homework%20(Optional).ipynb)
 
 ## Class 2 - Linear Algebra & Calculus
 Linear Algebra:
