@@ -2,14 +2,6 @@
 
 Welcome to the course "Introdução a Machine Learning" from Católica University of Medicine, 2025 edition 🎉
 
-# Final Project
-
-The handout is available [here](https://github.com/Hospital-Da-Luz-Learning-Health/MLCatolica25/tree/main/Final%20Project)
-
-The notebook to develop your project is [here](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Final%20Project/final_project.ipynb)
-
-Tutorial Notebook for how to submit your prediction to the test set is [here](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Final%20Project/submission%20tutorial.ipynb)
-
 # Content
 
 ## Class 1 - Introduction to Basic ML Models
