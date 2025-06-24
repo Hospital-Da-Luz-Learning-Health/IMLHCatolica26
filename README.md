@@ -12,16 +12,24 @@ Tutorial Notebook for how to submit your prediction to the test set is [here](ht
 
 # Content
 
-## Class 1 - Introduction to Python
+## Class 1 - Introduction to Basic ML Models
+
+- [Linear Regression - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%201%20-%20Introduction%20to%20Basic%20Concepts/Linear%20Regression/Learning%20Notebook.ipynb)
+- [Linear Regression - Exercises Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%201%20-%20Introduction%20to%20Basic%20Concepts/Linear%20Regression/Exercise%20Notebook.ipynb)
+ 
+- [Logistic Regression - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%201%20-%20Introduction%20to%20Basic%20Concepts/Logistic%20Regression/Learning%20Notebook.ipynb)
+- [Logistic Regression - Exercises Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%201%20-%20Introduction%20to%20Basic%20Concepts/Logistic%20Regression/Exercises%20Notebook.ipynb)
 
 [Slides](https://github.com/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%201%20-%20Introduction%20to%20Basic%20Concepts/slides/20240618%20IMLH%20First%20class.pptx): On this page click the `View raw` text to download the slides.
+
+
+## Class 2 - Intro to Basic Concepts
 
 Python:
 - [Intro To Python - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%201%20-%20Introduction%20to%20Basic%20Concepts/Intro%20to%20Python%20-%20Learning%20Notebook.ipynb)
 - [Intro To Python - Exercises Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%201%20-%20Introduction%20to%20Basic%20Concepts/Intro%20to%20Python%20-%20Exercise%20Notebook.ipynb)
 - [Intro To Python - Homework Notebook (Optional)](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%201%20-%20Introduction%20to%20Basic%20Concepts/Intro%20to%20Python%20-%20Homework%20(Optional).ipynb)
 
-## Class 2 - Linear Algebra & Calculus
 Linear Algebra:
 - [Introduction to Basic Concepts of Linear Algebra](https://colab.research.google.com/github/MonitSharma/Numerical-Linear-Algebra/blob/main/Basic%20Numerical%20Linear%20Algebra/1-Scalars%2C_Vectors%2C_Matrices_and_Tensors.ipynb)
 - [Matrix and Vector Multiplication](https://colab.research.google.com/github/MonitSharma/Numerical-Linear-Algebra/blob/main/Basic%20Numerical%20Linear%20Algebra/2-Multiplying_Matrices_and_Vectors.ipynb)
