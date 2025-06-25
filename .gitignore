@@ -1,8 +1,8 @@
 *.DS_Store
 *create_dataset.ipynb
-*test.csv
 *.vector_cache/
 *prepare_test.ipynb
+*test_w_target.csv
 *Exercise Notebook_solutions.ipynb
 *.amlignore
 *.amlignore.amltmp
