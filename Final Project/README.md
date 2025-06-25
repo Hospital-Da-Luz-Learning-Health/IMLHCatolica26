@@ -12,6 +12,8 @@ This phase consists of data analysis of the dataset. You are expected to submit 
 
 You have until **3rd July at 23:59** to submit this notebook.
 
+Start working from [this notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Final%20Project/final_project_EDA.ipynb)
+
 ## Model development and validation pipeline
 
 In this phase you are expected to deliver **a single notebook** where you train and validate your ML models on the dataset , as well as provide your predictions to the `test set` in a csv file. 
@@ -19,6 +21,9 @@ In this phase you are expected to deliver **a single notebook** where you train 
 > `submission tutorial.ipnb` explains how you can provide your predictions file.
 
 You have until **10th July at 23:59** to submit your notebook and predictions file.
+
+Start working from [this notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Final%20Project/final_project_ML.ipynb)
+
 
 
 ## The data set
