@@ -12,7 +12,7 @@ Welcome to the course "Introdução a Machine Learning" from Católica Universit
 - [Logistic Regression - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%201%20-%20Introduction%20to%20Basic%20Concepts/Logistic%20Regression/Learning%20Notebook.ipynb)
 - [Logistic Regression - Exercises Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%201%20-%20Introduction%20to%20Basic%20Concepts/Logistic%20Regression/Exercises%20Notebook.ipynb)
 
-[Slides](https://github.com/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%201%20-%20Introduction%20to%20Basic%20Concepts/slides/20240618%20IMLH%20First%20class.pptx): On this page click the `View raw` text to download the slides.
+[Slides](https://github.com/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%201%20-%20Introduction%20to%20Basic%20Concepts/slides/20250624%20IMLH%20First%20class.pptx): When inside this page, click `View raw` to download the slides.
 
 
 ## Class 2 - Intro to Basic Concepts
