@@ -31,9 +31,14 @@ Linear Algebra:
 
 ## Class 3 - Pandas & Data Analysis
 
-- [Pandas Series - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%203%20-%20Data%20Analysis%20%26%20Statistics/Pandas%20Series%20101/Learning%20Notebook.ipynb)
-- [Pandas DataFrame - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%203%20-%20Data%20Analysis%20%26%20Statistics/Pandas%20DataFrames%20101/Learning%20Notebook.ipynb)
-- [Pandas DataFrame - Exercises Notebook](https://colab.research.google.com/github//Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%203%20-%20Data%20Analysis%20%26%20Statistics/Pandas%20DataFrames%20101/Exercise%20notebook.ipynb)
+- [Pandas Series - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%203%20-%20Data%20Analysis%20%26%20Statistics/Pandas%20Series%20101/Learning%20Notebook.ipynb)
+- [Pandas Series - Learning Notebook](https://colab.research.google.com/github.com/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%203%20-%20Statistics%20and%20Data%20Analysis%20%26%20Visualization/Pandas%20Series%20101/Exercises%20Notebook.ipynb)
+- [Pandas DataFrame - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%203%20-%20Data%20Analysis%20%26%20Statistics/Pandas%20DataFrames%20101/Learning%20Notebook.ipynb)
+- [Pandas DataFrame - Exercises Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%203%20-%20Data%20Analysis%20%26%20Statistics/Pandas%20DataFrames%20101/Exercise%20notebook.ipynb)
+- [Statistics and Data Analysis - Learning Notebook](https://colab.research.google.com/github.com/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%203%20-%20Statistics%20and%20Data%20Analysis%20%26%20Visualization/Estat%C3%ADstica%20e%20An%C3%A1lise%20de%20Dados/Learning%20Notebook.ipynb)
+- [Statistics and Data Analysis - Learning Notebook](https://colab.research.google.com/github.com/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%203%20-%20Statistics%20and%20Data%20Analysis%20%26%20Visualization/Estat%C3%ADstica%20e%20An%C3%A1lise%20de%20Dados/Exercises%20Notebook.ipynb)
+
+
 
 ## Class 4 - Unsupervised Learning
 [Slides](https://github.com/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%204%20-%20Unsupervised%20Learning/Intro%5EMUnsupervised%5EMDataReduction_rev.pdf)
