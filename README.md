@@ -59,7 +59,7 @@ Linear Algebra:
 - [Supervised Learning - Exercise Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%205%20-%20Supervised%20Learning%20I/Exercise%20Notebook.ipynb)
 
 ## Class 6 - Supervised Learning (Classification - Logistic Regression)
-[Slides](https://github.com/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%206%20-%20Supervised%20Learning%20II/Supervised%20Learning%20-%20classification%20I.pdf)
+[Slides](https://github.com/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%206%20-%20Supervised%20Learning%20II/Supervised%20Learning%20-%20classification2025.pdf)
 
 - [Supervised Learning - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%206%20-%20Supervised%20Learning%20II/Learning%20Notebook.ipynb)
 - [Supervised Learning - Exercise Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%206%20-%20Supervised%20Learning%20II/Exercise%20Notebook.ipynb)
