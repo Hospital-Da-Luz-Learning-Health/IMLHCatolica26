@@ -1,6 +1,6 @@
 # Project assignment
 
-You are expected to apply the knowledge acquired in this course in the form of a ML project that is due on the ??th July. In this project, you are expected to train a machine learning model that can predict a clinical outcome measure. The final deliverables are: 1) a report, 2) a presentation, 3) the code produced. This document introduces the dataset to explore and sets the outline of both the report and the presentation.
+You are expected to apply the knowledge acquired in this course in the form of a ML project that is due on the 14th July. In this project, you are expected to train a machine learning model that can predict a clinical outcome measure. The final deliverables are: 1) a report, 2) a presentation, 3) the code produced. This document introduces the dataset to explore and sets the outline of both the report and the presentation.
 
 
 # Delivery Settings
@@ -10,7 +10,7 @@ There are two moments of delivery: 1) EDA and 2) Model development and validatio
 ## EDA
 This phase consists of data analysis of the dataset. You are expected to submit **a single notebook** that contains a comprehensive analysis of this project's dataset. Feel free to use markdown cells for discussion of results, as well as plots and tables.
 
-You have until **3rd July at 23:59** to submit this notebook.
+You have until **7th July at 23:59** to submit this notebook.
 
 Start working from [this notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Final%20Project/final_project_EDA.ipynb)
 
@@ -20,7 +20,7 @@ In this phase you are expected to deliver **a single notebook** where you train 
 
 > `submission tutorial.ipnb` explains how you can provide your predictions file.
 
-You have until **10th July at 23:59** to submit your notebook and predictions file.
+You have until **14th July at 23:59** to submit your notebook and predictions file.
 
 Start working from [this notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Final%20Project/final_project_ML.ipynb)
 
