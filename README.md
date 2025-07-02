@@ -49,18 +49,18 @@ Linear Algebra:
 ## Class 4 - Unsupervised Learning
 [Slides](https://github.com/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%204%20-%20Unsupervised%20Learning/Intro%5EMUnsupervised%5EMDataReduction_rev.pdf)
 
-- [Unsupervised Learning - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%204%20-%20Unsupervised%20Learning/Learning%20Notebook.ipynb)
-- [Unsupervised Learning - Exercise Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%204%20-%20Unsupervised%20Learning/Exercise%20Notebook.ipynb)
+- [Unsupervised Learning - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%204%20-%20Unsupervised%20Learning/Learning%20Notebook.ipynb)
+- [Unsupervised Learning - Exercise Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%204%20-%20Unsupervised%20Learning/Exercise%20Notebook.ipynb)
 
 ## Class 5 - Supervised Learning (Regression)
 [Slides](https://github.com/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%205%20-%20Supervised%20Learning%20I/Supervised%20learning%20-%20regression2025.pdf)
 
-- [Supervised Learning - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%205%20-%20Supervised%20Learning%20I/Learning%20Notebook.ipynb)
-- [Supervised Learning - Exercise Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%205%20-%20Supervised%20Learning%20I/Exercise%20Notebook.ipynb)
+- [Supervised Learning - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%205%20-%20Supervised%20Learning%20I/Learning%20Notebook.ipynb)
+- [Supervised Learning - Exercise Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%205%20-%20Supervised%20Learning%20I/Exercise%20Notebook.ipynb)
 
 ## Class 6 - Supervised Learning (Classification - Logistic Regression)
 [Slides](https://github.com/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%206%20-%20Supervised%20Learning%20II/Supervised%20Learning%20-%20classification2025.pdf)
 
-- [Supervised Learning - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%206%20-%20Supervised%20Learning%20II/Learning%20Notebook.ipynb)
-- [Supervised Learning - Exercise Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%206%20-%20Supervised%20Learning%20II/Exercise%20Notebook.ipynb)
+- [Supervised Learning I - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%206%20-%20Supervised%20Learning%20II/Learning%20Notebook.ipynb)
+- [Supervised Learning I - Exercise Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%206%20-%20Supervised%20Learning%20II/Exercise%20Notebook.ipynb)
 
