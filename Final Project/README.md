@@ -18,7 +18,7 @@ Start working from [this notebook](https://colab.research.google.com/github/Hosp
 
 In this phase you are expected to deliver **a single notebook** where you train and validate your ML models on the dataset , as well as provide your predictions to the `test set` in a csv file. 
 
-> `submission tutorial.ipnb` explains how you can provide your predictions file.
+> [submission tutorial notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Final%20Project/submission%20tutorial.ipynb) explains how you can provide your predictions file.
 
 You have until **14th July at 23:59** to submit your notebook and predictions file.
 
