@@ -63,4 +63,6 @@ Linear Algebra:
 
 - [Supervised Learning I - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%206%20-%20Supervised%20Learning%20II/Learning%20Notebook.ipynb)
 - [Supervised Learning I - Exercise Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%206%20-%20Supervised%20Learning%20II/Exercise%20Notebook.ipynb)
+- [Supervised Learning II - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%206%20-%20Supervised%20Learning%20II/Learning%20Notebook%20II.ipynb)
+- [Supervised Learning II - Exercise Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%206%20-%20Supervised%20Learning%20II/Exercise%20Notebook%20II.ipynb)
 
