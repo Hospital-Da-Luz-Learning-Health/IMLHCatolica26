@@ -2,6 +2,11 @@
 
 Welcome to the course "Introdução a Machine Learning" from Católica University of Medicine, 2025 edition 🎉
 
+
+# Final Project ML
+
+The ML final project handout is available [here](https://github.com/Hospital-Da-Luz-Learning-Health/MLCatolica25/tree/main/Final%20Project)
+
 # Content
 
 ## Class 1 - Introduction to Basic ML Models
