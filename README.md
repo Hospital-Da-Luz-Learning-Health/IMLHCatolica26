@@ -67,7 +67,7 @@ Linear Algebra:
 - [Supervised Learning II - Exercise Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%206%20-%20Supervised%20Learning%20II/Exercise%20Notebook%20II.ipynb)
 
 ## Class 7 - Model Evaluation and Optimization
-- [Slides](https://github.com/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%208%20-%20Metrics%20%26%20Model%20Optimization/Model%20Optimization%20and%20Evaluation.pptx)
+[Slides](https://github.com/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%207%20-%20Metrics%20%26%20Model%20Optimization/Model%20Optimization%20and%20Evaluation.pdf)
 - [Metrics and Unbalanced Data - Learning Notebook](https://github.com/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%207%20-%20Metrics%20%26%20Model%20Optimization/Metrics%20%26%20Unblanced%20Data%20-%20Learning%20Notebook.ipynb)
 - [Grid Search - Learning Notebook](https://github.com/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%207%20-%20Metrics%20%26%20Model%20Optimization/Grid%20Search%20-%20Learning%20Notebook.ipynb)
 
