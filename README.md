@@ -47,7 +47,7 @@ Linear Algebra:
 
 
 ## Class 4 - Unsupervised Learning
-[Slides](https://github.com/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%204%20-%20Unsupervised%20Learning/Intro%5EMUnsupervised%5EMDataReduction_rev.pdf)
+[Slides](https://github.com/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%204%20-%20Unsupervised%20Learning/Intro%5EMUnsupervised%5EMDataReduction_rev.pdf)
 
 - [Unsupervised Learning - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%204%20-%20Unsupervised%20Learning/Learning%20Notebook.ipynb)
 - [Unsupervised Learning - Exercise Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%204%20-%20Unsupervised%20Learning/Exercise%20Notebook.ipynb)
@@ -65,4 +65,9 @@ Linear Algebra:
 - [Supervised Learning I - Exercise Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%206%20-%20Supervised%20Learning%20II/Exercise%20Notebook.ipynb)
 - [Supervised Learning II - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%206%20-%20Supervised%20Learning%20II/Learning%20Notebook%20II.ipynb)
 - [Supervised Learning II - Exercise Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%206%20-%20Supervised%20Learning%20II/Exercise%20Notebook%20II.ipynb)
+
+## Class 7 - Model Evaluation and Optimization
+- [Slides](https://github.com/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%208%20-%20Metrics%20%26%20Model%20Optimization/Model%20Optimization%20and%20Evaluation.pptx)
+- [Metrics and Unbalanced Data - Learning Notebook](https://github.com/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%207%20-%20Metrics%20%26%20Model%20Optimization/Metrics%20%26%20Unblanced%20Data%20-%20Learning%20Notebook.ipynb)
+- [Grid Search - Learning Notebook](https://github.com/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%207%20-%20Metrics%20%26%20Model%20Optimization/Grid%20Search%20-%20Learning%20Notebook.ipynb)
 
