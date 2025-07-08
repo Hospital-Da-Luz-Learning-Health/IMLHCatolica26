@@ -47,7 +47,7 @@ Linear Algebra:
 
 
 ## Class 4 - Unsupervised Learning
-[Slides](https://github.com/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%204%20-%20Unsupervised%20Learning/Intro%5EMUnsupervised%5EMDataReduction_rev.pdf)
+[Slides](https://github.com/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%204%20-%20Unsupervised%20Learning/Intro%5EMUnsupervised%5EMDataReduction_rev.cleaned.pdf)
 
 - [Unsupervised Learning - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%204%20-%20Unsupervised%20Learning/Learning%20Notebook.ipynb)
 - [Unsupervised Learning - Exercise Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%204%20-%20Unsupervised%20Learning/Exercise%20Notebook.ipynb)
