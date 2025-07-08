@@ -71,4 +71,4 @@ Linear Algebra:
 - [Metrics and Unbalanced Data - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%207%20-%20Metrics%20%26%20Model%20Optimization/Metrics%20%26%20Unblanced%20Data%20-%20Learning%20Notebook.ipynb)
 - [Metrics and Unbalanced Data - Exercise Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%207%20-%20Metrics%20%26%20Model%20Optimization/Metrics%20%26%20Unblanced%20Data%20-%20Exercise%20Notebook.ipynb)
 - [Grid Search - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%207%20-%20Metrics%20%26%20Model%20Optimization/Grid%20Search%20-%20Learning%20Notebook.ipynb)
-
+- [Exercise Notebook Solutions](https://colab.research.google.com/github/)
