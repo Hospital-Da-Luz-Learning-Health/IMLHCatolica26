@@ -7,6 +7,8 @@ Welcome to the course "Introdução a Machine Learning" from Católica Universit
 
 The ML final project handout is available [here](https://github.com/Hospital-Da-Luz-Learning-Health/MLCatolica25/tree/main/Final%20Project)
 
+The Project 2 handout is available [here]
+
 # Content
 
 ## Class 1 - Introduction to Basic ML Models
@@ -77,6 +79,9 @@ Linear Algebra:
 ## Class 8 - Advance Models I
 [Slides](https://github.com/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%208%20-%20Advanced%20Models%20I/Advanced%20Models.pptx.pdf)
 
-- [Deep Learning as Basis Regression - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%209%20-%20Deep%20Learning/Deep%20Learning%20as%20Basis%20Regression%20-%20Learning%20Notebook.ipynb)
-- [CNNs - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%209%20-%20Deep%20Learning/CNNs.ipynb)
-- [Embeddings - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica24/blob/main/Aula%209%20-%20Deep%20Learning/Embeddings.ipynb)
+- [Deep Learning as Basis Regression - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%209%20-%20Deep%20Learning/Deep%20Learning%20as%20Basis%20Regression%20-%20Learning%20Notebook.ipynb)
+- [CNNs - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%209%20-%20Deep%20Learning/CNNs.ipynb)
+
+## Class 9 - Advance Models II
+[Slides](https://github.com/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%208%20-%20Advanced%20Models%20I/Advanced%20Models.pptx.pdf)
+- [Embeddings - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%209%20-%20Deep%20Learning/Embeddings.ipynb)
