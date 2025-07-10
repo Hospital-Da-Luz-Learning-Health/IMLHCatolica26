@@ -76,6 +76,6 @@ By completing this project, you will:
 - What challenges did you face in extracting structured information from unstructured text?
 - How could these techniques be improved for real clinical workflows?
 
-  ## Interesting Readings:
-  https://research.google/blog/medgemma-our-most-capable-open-models-for-health-ai-development/?linkId=15644217
+## Interesting Readings:
+- https://research.google/blog/medgemma-our-most-capable-open-models-for-health-ai-development/?linkId=15644217
   
