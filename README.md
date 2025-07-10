@@ -84,4 +84,4 @@ Linear Algebra:
 
 ## Class 9 - Advance Models II
 [Slides](https://github.com/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%208%20-%20Advanced%20Models%20I/Advanced%20Models.pptx.pdf)
-- [Embeddings - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%209%20-%20Deep%20Learning/Embeddings.ipynb)
+- [Embeddings - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%209%20-%20Advanced%20Models%20II/Embeddings.ipynb)
