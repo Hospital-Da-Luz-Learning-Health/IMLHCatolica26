@@ -6,9 +6,12 @@
 
 **Deliverables:** 
 1. Notebook
-2. Presentation (Combined with Project 1 presentation)
+2. Presentation (combined with Project 1 presentation)
 
 
+Start from the provided Google Colab notebook:
+
+👉[notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Project%202%20-%20LLMs/MLCat_Project2.ipynb).
 
 
 ## Overview
@@ -31,9 +34,6 @@ By completing this project, you will:
 
 ## Getting Started
 1. Open the Notebook
-
-    - Start from the provided Google Colab notebook:
-👉[notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Project%202%20-%20LLMs/MLCat_Project2.ipynb).
 
 2. Load an LLM
 
