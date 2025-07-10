@@ -7,7 +7,7 @@ Welcome to the course "Introdução a Machine Learning" from Católica Universit
 
 The ML final project handout is available [here](https://github.com/Hospital-Da-Luz-Learning-Health/MLCatolica25/tree/main/Final%20Project)
 
-The Project 2 handout is available [here]
+The Project 2 handout is available [here](https://github.com/Hospital-Da-Luz-Learning-Health/MLCatolica25/tree/main/Project%202%20-%20LLMs)
 
 # Content
 
