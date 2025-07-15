@@ -86,3 +86,6 @@ Linear Algebra:
 [Slides](https://github.com/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%208%20-%20Advanced%20Models%20I/Advanced%20Models.pdf) - Same slides of class 8
 - [Embeddings - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%209%20-%20Advanced%20Models%20II/Embeddings.ipynb)
 - [One Hot Encoding - tutorial](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%207%20-%20Metrics%20%26%20Model%20Optimization/How%20to%20One%20Hot%20encode%20your%20data%20(Tutorial).ipynb)
+
+## Class 10 - Advance Models III
+- [Agents Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%2010%20-%20Advanced%20Models%20III/Agents.ipynb)
