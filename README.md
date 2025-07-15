@@ -89,6 +89,7 @@ Linear Algebra:
 
 ## Class 10 - Advance Models III
 - [Agents Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%2010%20-%20Advanced%20Models%20III/Agents.ipynb)
+- [RAG Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%2010%20-%20Advanced%20Models%20III/RAG.ipynb)
 
 ## Class 11 - Bias, Fairness & Responsible AI
 
