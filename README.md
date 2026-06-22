@@ -1,13 +1,13 @@
-# Introduction to Machine Learning - Católica 2025
+# Introduction to Machine Learning - Católica 2026
 
-Welcome to the course "Introdução a Machine Learning" from Católica University of Medicine, 2025 edition 🎉
+Welcome to the course "Introdução a Machine Learning" from Católica University of Medicine, 2026 edition 🎉
 
 
 # Final Project ML
 
-The ML final project handout is available [here](https://github.com/Hospital-Da-Luz-Learning-Health/MLCatolica25/tree/main/Final%20Project)
+[update] The ML final project handout is available [here](https://github.com/Hospital-Da-Luz-Learning-Health/MLCatolica25/tree/main/Final%20Project)
 
-The Project 2 handout is available [here](https://github.com/Hospital-Da-Luz-Learning-Health/MLCatolica25/tree/main/Project%202%20-%20LLMs)
+[delete] The Project 2 handout is available [here](https://github.com/Hospital-Da-Luz-Learning-Health/MLCatolica25/tree/main/Project%202%20-%20LLMs)
 
 # Content
 
