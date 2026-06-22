@@ -16,18 +16,19 @@ Python:
 
 ## Class 2 - Linear Algebra and Pandas:
 
-### Pandas:
-- [Pandas Series - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%203%20-%20Statistics%20and%20Data%20Analysis%20%26%20Visualization/Pandas%20Series%20101/Learning%20Notebook.ipynb)
-- [Pandas Series - Exercises Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%203%20-%20Statistics%20and%20Data%20Analysis%20%26%20Visualization/Pandas%20Series%20101/Exercises%20Notebook.ipynb)
-- [Pandas DataFrame - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%203%20-%20Statistics%20and%20Data%20Analysis%20%26%20Visualization/Pandas%20DataFrames%20101/Learning%20Notebook.ipynb)
-- [Pandas DataFrame - Exercises Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%203%20-%20Statistics%20and%20Data%20Analysis%20%26%20Visualization/Pandas%20DataFrames%20101/Exercise%20notebook.ipynb)
-
-
 ### Linear Algebra:
 - [Introduction to Basic Concepts of Linear Algebra](https://colab.research.google.com/github/MonitSharma/Numerical-Linear-Algebra/blob/main/Basic%20Numerical%20Linear%20Algebra/1-Scalars%2C_Vectors%2C_Matrices_and_Tensors.ipynb)
 - [Matrix and Vector Multiplication](https://colab.research.google.com/github/MonitSharma/Numerical-Linear-Algebra/blob/main/Basic%20Numerical%20Linear%20Algebra/2-Multiplying_Matrices_and_Vectors.ipynb)
 - [Clinical Example](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%202%20-%20Linear%20Algebra%20%26%20Calculus/LinearAlgebra.ipynb)
 - [More Basic concepts (opcional)](https://github.com/MonitSharma/Numerical-Linear-Algebra)
+
+
+
+### Pandas:
+- [Pandas Series - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%203%20-%20Statistics%20and%20Data%20Analysis%20%26%20Visualization/Pandas%20Series%20101/Learning%20Notebook.ipynb)
+- [Pandas Series - Exercises Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%203%20-%20Statistics%20and%20Data%20Analysis%20%26%20Visualization/Pandas%20Series%20101/Exercises%20Notebook.ipynb)
+- [Pandas DataFrame - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%203%20-%20Statistics%20and%20Data%20Analysis%20%26%20Visualization/Pandas%20DataFrames%20101/Learning%20Notebook.ipynb)
+- [Pandas DataFrame - Exercises Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/MLCatolica25/blob/main/Aula%203%20-%20Statistics%20and%20Data%20Analysis%20%26%20Visualization/Pandas%20DataFrames%20101/Exercise%20notebook.ipynb)
 
 
 <!--
