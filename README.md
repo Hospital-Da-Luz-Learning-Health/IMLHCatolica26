@@ -33,12 +33,8 @@ Welcome to the course "Introdução a Machine Learning" from Católica Universit
 - [Pandas DataFrame - Exercises Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%203%20-%20Statistics%20and%20Data%20Analysis%20%26%20Visualization/Pandas%20DataFrames%20101/Exercise%20notebook.ipynb)
 
 
-<!--
+
 ## Class 3 - Pandas & Data Analysis
 
 - [Statistics and Data Analysis - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%203%20-%20Statistics%20and%20Data%20Analysis%20%26%20Visualization/Estat%C3%ADstica%20e%20An%C3%A1lise%20de%20Dados/Learning%20Notebook.ipynb)
 - [Statistics and Data Analysis - Exercises Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%203%20-%20Statistics%20and%20Data%20Analysis%20%26%20Visualization/Estat%C3%ADstica%20e%20An%C3%A1lise%20de%20Dados/Exercises%20Notebook.ipynb)
-
-
-- [Calculus - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%202%20-%20Linear%20Algebra%20%26%20Calculus/Calculus%20-%20Learning%20Notebook.ipynb)
--->
