@@ -42,6 +42,6 @@ Welcome to the course "Introdução a Machine Learning" from Católica Universit
 
 ## Class 4 - Linear Regression (Supervised Learning)
 
-- [Linear Regression - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%205%20-%20Supervised%20Learning%20I/Learning%20Notebook.ipynb)
+- [Linear Regression - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%204%20-%20Supervised%20Learning%20I/Learning%20Notebook.ipynb)
 
-- [Linear Regression - Exercises Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%205%20-%20Supervised%20Learning%20I/Exercise%20Notebook.ipynb)
+- [Linear Regression - Exercises Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%204%20-%20Supervised%20Learning%20I/Exercise%20Notebook.ipynb)
