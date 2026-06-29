@@ -38,3 +38,10 @@ Welcome to the course "Introdução a Machine Learning" from Católica Universit
 
 - [Statistics and Data Analysis - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%203%20-%20Statistics%20and%20Data%20Analysis%20%26%20Visualization/Estat%C3%ADstica%20e%20An%C3%A1lise%20de%20Dados/Learning%20Notebook.ipynb)
 - [Statistics and Data Analysis - Exercises Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%203%20-%20Statistics%20and%20Data%20Analysis%20%26%20Visualization/Estat%C3%ADstica%20e%20An%C3%A1lise%20de%20Dados/Exercises%20Notebook.ipynb)
+
+
+## Class 4 - Linear Regression (Supervised Learning)
+
+- [Linear Regression - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%205%20-%20Supervised%20Learning%20I/Learning%20Notebook.ipynb)
+
+- [Linear Regression - Exercises Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%205%20-%20Supervised%20Learning%20I/Exercise%20Notebook.ipynb)
