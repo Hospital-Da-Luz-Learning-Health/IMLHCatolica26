@@ -1,4 +1,4 @@
-# Class 5 - Introduction to Supervised Learning
+# Class 4 - Introduction to Supervised Learning
 
 **Agenda**
 1. Introduction to Supervised Learning

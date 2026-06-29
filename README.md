@@ -45,7 +45,7 @@ The ML final project handout is available [here](https://github.com/Hospital-Da-
 
 ## Class 4 - Linear Regression (Supervised Learning)
 
-[Slides](https://github.com/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%205%20-%20Supervised%20Learning%20I/Supervised%20learning%20-%20regression2026.pdf)
+[Slides](https://github.com/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%204%20-%20Supervised%20Learning%20I/supervised_learning_regression_2026.pdf)
 
 
 - [Linear Regression - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%204%20-%20Supervised%20Learning%20I/Learning%20Notebook.ipynb)
