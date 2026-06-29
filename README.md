@@ -2,6 +2,9 @@
 
 Welcome to the course "Introdução a Machine Learning" from Católica University of Medicine, 2026 edition 🎉
 
+# Final Project ML
+The ML final project handout is available [here](https://github.com/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/tree/main/Final%20Project).
+
 # Content
 
 ## Class 1 - Introduction to Basic Concepts
@@ -43,5 +46,4 @@ Welcome to the course "Introdução a Machine Learning" from Católica Universit
 ## Class 4 - Linear Regression (Supervised Learning)
 
 - [Linear Regression - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%204%20-%20Supervised%20Learning%20I/Learning%20Notebook.ipynb)
-
 - [Linear Regression - Exercises Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%204%20-%20Supervised%20Learning%20I/Exercise%20Notebook.ipynb)
