@@ -18,7 +18,7 @@ The ML final project handout is available [here](https://github.com/Hospital-Da-
 
 
 
-## Class 2 - Linear Algebra and Pandas:
+## Class 2 - Pandas:
 <!--
 ### Linear Algebra:
 - [Introduction to Basic Concepts of Linear Algebra](https://colab.research.google.com/github/MonitSharma/Numerical-Linear-Algebra/blob/main/Basic%20Numerical%20Linear%20Algebra/1-Scalars%2C_Vectors%2C_Matrices_and_Tensors.ipynb)
@@ -45,15 +45,5 @@ The ML final project handout is available [here](https://github.com/Hospital-Da-
 
 - [Linear Regression - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%204%20-%20Supervised%20Learning%20I/Learning%20Notebook.ipynb)
 - [Linear Regression - Exercises Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%204%20-%20Supervised%20Learning%20I/Exercise%20Notebook.ipynb)
+- [Linear Regression - Exercises Notebook (Solutions)](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%204%20-%20Supervised%20Learning%20I/Exercise%20Notebook_solutions.ipynb)
 
-
-## Class 5 - Logistic Regression and Evaluation Metrics (Supervised Learning II)
-
-[Slides I](https://github.com/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%205%20-%20Supervised%20Learning%20II/slides_supervised_learning_logistic_reg.pdf)
-[Slides II](https://github.com/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%205%20-%20Supervised%20Learning%20II/slides_model_optimization_and_evaluation.pdf)
-
-
-- [Logistic Regression - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%205%20-%20Supervised%20Learning%20II/Learning%20Notebook%20I.ipynb)
-- [Logistic Regression - Exercises Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%205%20-%20Supervised%20Learning%20II/Exercise%20Notebook%20I.ipynb)
-- [Model Optimization and Evaluation - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%205%20-%20Supervised%20Learning%20II/Learning%20Notebook%20II.ipynb)
-- [Model Optimization and Evaluation - Exercises Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%205%20-%20Supervised%20Learning%20II/Exercise%20Notebook%20II.ipynb)
