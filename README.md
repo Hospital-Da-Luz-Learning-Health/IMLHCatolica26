@@ -29,12 +29,8 @@ The ML final project handout is available [here](https://github.com/Hospital-Da-
 
 
 ### Pandas:
-- [Pandas Series - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%203%20-%20Statistics%20and%20Data%20Analysis%20%26%20Visualization/Pandas%20Series%20101/Learning%20Notebook.ipynb)
-- [Pandas Series - Exercises Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%203%20-%20Statistics%20and%20Data%20Analysis%20%26%20Visualization/Pandas%20Series%20101/Exercises%20Notebook.ipynb)
 - [Pandas DataFrame - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%203%20-%20Statistics%20and%20Data%20Analysis%20%26%20Visualization/Pandas%20DataFrames%20101/Learning%20Notebook.ipynb)
 - [Pandas DataFrame - Exercises Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%203%20-%20Statistics%20and%20Data%20Analysis%20%26%20Visualization/Pandas%20DataFrames%20101/Exercise%20notebook.ipynb)
-
-
 
 ## Class 3 - Pandas & Data Analysis
 
