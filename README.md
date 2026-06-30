@@ -50,7 +50,7 @@ The ML final project handout is available [here](https://github.com/Hospital-Da-
 
 ## Class 5 - Logistic Regression and Evaluation Metrics (Supervised Learning II)
 
-[Slides I](https://github.com/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%205%20-%20Supervised%20Learning%20II/slides_supervised_learning_logistic_reg.pdf)
+[Slides I](https://github.com/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%205%20-%20Supervised%20Learning%20II/slides_supervised_learning_logistic_reg.pdf)  
 [Slides II](https://github.com/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%205%20-%20Supervised%20Learning%20II/slides_model_optimization_and_evaluation.pdf)
 
 
@@ -58,5 +58,3 @@ The ML final project handout is available [here](https://github.com/Hospital-Da-
 - [Logistic Regression - Exercises Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%205%20-%20Supervised%20Learning%20II/Exercise%20Notebook%20I.ipynb)
 - [Model Optimization and Evaluation - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%205%20-%20Supervised%20Learning%20II/Learning%20Notebook%20II.ipynb)
 - [Model Optimization and Evaluation - Exercises Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%205%20-%20Supervised%20Learning%20II/Exercise%20Notebook%20II.ipynb)
-=======
-- [Linear Regression - Exercises Notebook (Solutions)](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%204%20-%20Supervised%20Learning%20I/Exercise%20Notebook_solutions.ipynb)
