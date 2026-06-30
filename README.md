@@ -9,7 +9,7 @@ The ML final project handout is available [here](https://github.com/Hospital-Da-
 
 ## Class 1 - Introduction to Basic Concepts
 
-[Slides](https://github.com/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%201%20-%20Introduction%20to%20Basic%20Concepts/IMLH-Class1-intro.pdf))
+[Slides](https://github.com/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%201%20-%20Introduction%20to%20Basic%20Concepts/IMLH-Class1-intro.pdf)
 
 ### Python:
 - [Intro To Python - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%201%20-%20Introduction%20to%20Basic%20Concepts/Intro%20to%20Python%20-%20Learning%20Notebook.ipynb)
