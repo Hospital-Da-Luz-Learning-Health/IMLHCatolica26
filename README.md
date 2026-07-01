@@ -58,3 +58,13 @@ The ML final project handout is available [here](https://github.com/Hospital-Da-
 - [Logistic Regression - Exercises Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%205%20-%20Supervised%20Learning%20II/Exercise%20Notebook%20I.ipynb)
 - [Model Optimization and Evaluation - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%205%20-%20Supervised%20Learning%20II/Learning%20Notebook%20II.ipynb)
 - [Model Optimization and Evaluation - Exercises Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%205%20-%20Supervised%20Learning%20II/Exercise%20Notebook%20II.ipynb)
+
+## Class 6 - Decision Trees and Model Tuning (Supervised Learning III)
+
+[Slides I](https://github.com/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%205%20-%20Supervised%20Learning%20II/slides_supervised_learning_logistic_reg.pdf)
+[Slides II](https://github.com/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%205%20-%20Supervised%20Learning%20II/slides_model_optimization_and_evaluation.pdf)
+
+
+- [Decision Trees and Random Forests - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%206%20-%20Supervised%20Learning%20III/Learning%20Notebook%20I.ipynb)
+- [Hypeparameter Tuning - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%206%20-%20Supervised%20Learning%20III/Learning%20Notebook%20II.ipynb)
+- [Decision Trees, Random Forests and Tuning- Exercises Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%206%20-%20Supervised%20Learning%20III/Exercise%20Notebook%20I.ipynb)
