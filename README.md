@@ -59,6 +59,7 @@ The ML final project handout is available [here](https://github.com/Hospital-Da-
 - [Model Optimization and Evaluation - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%205%20-%20Supervised%20Learning%20II/Learning%20Notebook%20II.ipynb)
 - [Model Optimization and Evaluation - Exercises Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%205%20-%20Supervised%20Learning%20II/Exercise%20Notebook%20II.ipynb)
 
+
 ## Class 6 - Decision Trees and Model Tuning (Supervised Learning III)
 
 [Slides I](https://github.com/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%205%20-%20Supervised%20Learning%20II/slides_supervised_learning_logistic_reg.pdf)
@@ -68,3 +69,10 @@ The ML final project handout is available [here](https://github.com/Hospital-Da-
 - [Decision Trees and Random Forests - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%206%20-%20Supervised%20Learning%20III/Learning%20Notebook%20I.ipynb)
 - [Hypeparameter Tuning - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%206%20-%20Supervised%20Learning%20III/Learning%20Notebook%20II.ipynb)
 - [Decision Trees, Random Forests and Tuning- Exercises Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%206%20-%20Supervised%20Learning%20III/Exercise%20Notebook%20I.ipynb)
+
+
+## Class 7 - Unsupervised Learning
+
+- [Unsupervised Learning I - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%207%20-%20Unsupervised%20Learning/Learning%20Notebook%20I.ipynb)
+- [Unsupervised Learning II - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%207%20-%20Unsupervised%20Learning/Learning%20Notebook%20II.ipynb)
+- [Unsupervised Learning - Exercises Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%207%20-%20Unsupervised%20Learning/Exercise%20Notebook.ipynb)
