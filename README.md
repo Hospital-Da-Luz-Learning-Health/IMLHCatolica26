@@ -76,3 +76,9 @@ The ML final project handout is available [here](https://github.com/Hospital-Da-
 - [Unsupervised Learning I - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%207%20-%20Unsupervised%20Learning/Learning%20Notebook%20I.ipynb)
 - [Unsupervised Learning II - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%207%20-%20Unsupervised%20Learning/Learning%20Notebook%20II.ipynb)
 - [Unsupervised Learning - Exercises Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%207%20-%20Unsupervised%20Learning/Exercise%20Notebook.ipynb)
+
+
+## Class 8 - Vector Representations and Embeddings
+
+- [One-hot encoding - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%208%20-%20Vector%20Representations%20and%20Embeddings/Learning%20Notebook%20I.ipynb)
+- [Embeddings - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%208%20-%20Vector%20Representations%20and%20Embeddings/Learning%20Notebook%20II.ipynb)
