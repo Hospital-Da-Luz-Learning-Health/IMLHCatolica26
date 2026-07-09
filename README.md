@@ -85,7 +85,7 @@ The ML final project handout is available [here](https://github.com/Hospital-Da-
 
 
 ## Class 9 - Deep Learning
-
+[Slides](https://github.com/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%209%20-%20Deep%20Learning/Advanced_Models_2026.pdf)  
 
 - [Deep Learning as Basis Regression - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%209%20-%20Deep%20Learning/Deep%20Learning%20as%20Basis%20Regression%20-%20Learning%20Notebook.ipynb)
 - [Prompts and LLMs - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%209%20-%20Deep%20Learning/prompt-llm.ipynb)
