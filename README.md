@@ -95,5 +95,4 @@ The ML final project handout is available [here](https://github.com/Hospital-Da-
 
 
 - [Explainability - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%2010%20-%20Responsible%20AI/Learning%20Notebook%20-%20Explainability.ipynb)
-
 - [Fairness - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%2010%20-%20Responsible%20AI/Learning%20Notebook%20-%20Fairness.ipynb)
