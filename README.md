@@ -89,3 +89,11 @@ The ML final project handout is available [here](https://github.com/Hospital-Da-
 
 - [Deep Learning as Basis Regression - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%209%20-%20Deep%20Learning/Deep%20Learning%20as%20Basis%20Regression%20-%20Learning%20Notebook.ipynb)
 - [Prompts and LLMs - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%209%20-%20Deep%20Learning/prompt-llm.ipynb)
+
+
+## Class 10 - Responsible AI
+
+
+- [Explainability - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%2010%20-%20Responsible%20AI/Learning%20Notebook%20-%20Explainability.ipynb)
+
+- [Fairness - Learning Notebook](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IMLHCatolica26/blob/main/Aula%2010%20-%20Responsible%20AI/Learning%20Notebook%20-%20Fairness.ipynb)
